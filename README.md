@@ -1,4 +1,6 @@
 ### Oii! Sou a Juliana Vieira de Carvalho.
+### Você pode ler minha pesquisa acessando esse link: https://link.springer.com/chapter/10.1007/978-3-030-87013-3_42
+###
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Julianavcarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
