@@ -1,4 +1,5 @@
 ### Oii! Sou a Juliana Vieira de Carvalho.
+### Professora, pesquisadora, e sempre aluna.
 ### Você pode ler minha pesquisa acessando esse link: https://link.springer.com/chapter/10.1007/978-3-030-87013-3_42
 ###
 
